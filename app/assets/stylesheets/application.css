@@ -29,3 +29,21 @@ p {
   line-height:18px;
   margin:33px;
 }
+
+.show {
+  margin:33px;
+  color:green;
+}
+
+.field {
+  margin-bottom:10px;
+}
+
+.action {
+  margin-bottom:10px;
+}
+
+table {
+   table-layout: fixed;
+   width: 60%;
+}
